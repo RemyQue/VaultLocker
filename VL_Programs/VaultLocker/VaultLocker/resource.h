@@ -1,0 +1,9 @@
+// VAULTLOCKER. 2024
+// RESOURCES HEADER
+
+#ifndef RESOURCE_H
+#define RESOURCE_H
+
+#define MY_IMAGE 101
+
+#endif // RESOURCE_H

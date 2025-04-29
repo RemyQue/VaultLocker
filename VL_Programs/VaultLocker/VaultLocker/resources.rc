@@ -1,0 +1,38 @@
+// Microsoft Visual C++ generated resource script.
+#include "resource.h"
+#include <windows.h>
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United Kingdom) resources
+
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RCDATA
+//
+
+MY_IMAGE RCDATA "wallpaper.png"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE
+BEGIN
+"resource.h\0"
+END
+
+2 TEXTINCLUDE
+BEGIN
+"\0"
+END
+
+3 TEXTINCLUDE
+BEGIN
+"\r\n"
+"\0"
+END
+
